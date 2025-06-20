@@ -1,1 +1,2 @@
 # FitbitDataAnalysis
+Conducted exploratory analysis on physical activity and sleep data from 30 Fitbit users (Kaggle dataset) to uncover behavior-linked health trends. Investigated correlations between total activity minutes and steps, and visualized weekly movement patterns. Designed an interactive dashboard using Python and Dash with filters for day and activity level, enabling personalized exploration. Analyzed sleep quality and duration across users, generating actionable insights despite sample size constraints.
